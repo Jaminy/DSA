@@ -9,3 +9,14 @@ Data Structures
   4. Linked List
   5. Graphs
   6. Trees
+
+Algorithms
+
+  1. Sorting
+  2. Searching
+  3. Greedy Algorithm
+  4. Divide and Conquer
+  5. Dynamic Programming
+  6. Recursion
+  7. Brute Force Search
+  
